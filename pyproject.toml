@@ -1,0 +1,9 @@
+[project]
+name = "autocall-phoenix"
+version = "0.1.0"
+description = "Local volatility pricer and structuring toolkit for a worst-of Phoenix autocallable"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
