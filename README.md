@@ -16,7 +16,7 @@ UBER / DASH / COST** ([pricing supplement, SEC](https://www.sec.gov/Archives/edg
 
 ## The product
 
-| Term | Barclays note (CUSIP 06746EPG4) |
+| Term | Barclays note |
 |---|---|
 | Underlyings | Uber, DoorDash, Costco (worst-of) |
 | Maturity | 3 years, monthly observations |
