@@ -214,7 +214,7 @@ so the Greeks explain most of the P&L. For this part I use Black-Scholes with 1-
 
 ---
 
-**The Bloomberg data is not in this repo** (licensed data). `data/bloomberg/README.md` explains the file format,
+The Bloomberg data is not in this repo (licensed data). `data/bloomberg/README.md` explains the file format,
 so you can rebuild it from your own terminal (OVDV screen). The results in `results/` come from the real data.
 
 ---
